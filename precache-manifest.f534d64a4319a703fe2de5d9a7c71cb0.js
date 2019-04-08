@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pomodoro-app/static/media/monofonto.0c95a6aa.ttf"
   },
   {
-    "revision": "2245bedc68b11608fa284f546332a2c2",
+    "revision": "a1ab8e925e765d08259d8bbb6cfb631c",
     "url": "/pomodoro-app/index.html"
   }
 ];
