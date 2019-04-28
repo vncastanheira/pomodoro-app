@@ -1,5 +1,5 @@
 # Pomodoro App
-## a simple pomodo web application made with React and Firebase
+a simple pomodo web application made with React and Firebase
 
 ---
 
