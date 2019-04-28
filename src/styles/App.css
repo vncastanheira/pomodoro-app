@@ -1,0 +1,85 @@
+.App {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: monofonto, sans-serif
+}
+
+.App-box {
+  width: 40%;
+  padding: 20px 50px;
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #ed1a59;
+  background-color: white;
+  box-shadow: 5px 5px #ed1a5954;
+}
+
+#tomato {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+h1 {
+  font-size: 6vw;
+}
+
+h3 {
+  font-size: 3vw; 
+}
+
+button {
+  border-radius: 8px;
+  text-align: center;
+  display: inline-block;
+  font-size: 24px;
+  font-family: monofonto, sans-serif;
+  padding: 10px;
+}
+
+.button-start {
+  background-color: rgba(22, 185, 112, 0.44);
+  color: #000000;
+  border: none;
+}
+
+.button-stop {
+  background-color: #ed1a59;
+  color: whitesmoke;
+  border: none;
+}
+
+#login-section {
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: auto;
+  width: 20%;
+  text-align: center;
+  color: rgb(43, 43, 43);
+}
+
+
+#logout {
+  background-color: maroon;
+  color: whitesmoke;
+}
+
+@font-face {
+  font-family: monofonto;
+  src: url(monofonto.ttf);
+}
+
+#github {
+  position: fixed;
+  right: 0px;
+  top: 0px;
+}
+
+#github img {
+  max-width: 32px;
+  margin: 5px;
+}
